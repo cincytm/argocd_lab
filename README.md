@@ -1,4 +1,6 @@
-# Ingress, understood — Git Bash + KillerCoda
+# argocd_lab
+
+Ingress, understood — Git Bash + KillerCoda
 
 Open **index.html** for Section 1 and **lab2-argocd.html** for Section 2. Both have a light theme, copyable Bash commands, diagrams, and visible interview answers. No frontend build or CDN is required.
 
